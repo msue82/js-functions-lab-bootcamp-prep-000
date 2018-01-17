@@ -18,4 +18,4 @@ function holidayCountdown(holiday, days){
   return `It's ${days} days until ${holiday}!`
 
 }
-holidayCountdown("Valentine's Day", 30)
+holidayCountdown("Valentines Day", 30)
